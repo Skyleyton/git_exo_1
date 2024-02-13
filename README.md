@@ -28,3 +28,4 @@ Auteurs :
  - Fabien Rozar
  - Luc Maillet
  - Julien LENORMAND
+ - Lucas XITRA
