@@ -26,4 +26,5 @@ après chaque commande git.
 
 Auteurs :
  - Fabien Rozar
+ - Luc Maillet
  - Julien LENORMAND
