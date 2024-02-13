@@ -29,3 +29,4 @@ Auteurs :
  - Luc Maillet
  - Julien LENORMAND
  - Lucas XITRA
+ - Dewen BIDOIS
